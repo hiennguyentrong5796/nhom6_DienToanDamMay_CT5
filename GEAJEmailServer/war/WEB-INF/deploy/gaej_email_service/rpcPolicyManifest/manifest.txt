@@ -1,0 +1,3 @@
+# Module gaej_email_service
+# RPC service class, partial path of RPC policy file
+com.gaejexperiments.email.client.GreetingService, 9826E2629CBFA37C6CB5ABAC2752091B.gwt.rpc

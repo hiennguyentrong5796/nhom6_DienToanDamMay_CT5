@@ -1,0 +1,2 @@
+serviceClass: com.gaejexperiments.email.client.GreetingService
+path: 9826E2629CBFA37C6CB5ABAC2752091B.gwt.rpc
